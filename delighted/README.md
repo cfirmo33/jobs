@@ -7,7 +7,7 @@ Delighted is a real-time platform for companies to instantly gather feedback fro
 ##### [Full stack Engineer](fullstack-engineer.md)
 
 ## Location
-![1027 Alma Street, Suite B, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=1027+Alma+Street,+Suite+B,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C24th+&+Mission+ST,+San+Francisco,+CA)  
+![1027 Alma Street, Suite B, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=1027+Alma+Street,+Suite+B,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C24th+&+Mission+ST,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (1) - undisclosed

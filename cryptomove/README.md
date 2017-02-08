@@ -1,4 +1,5 @@
 # CryptoMove
+
 ## Overview
 CryptoMove is a revolutionary data security platform designed around the breaches you read about in the news. Guards against cryptographic attacks, blackmail, and root OS attacks. Agnostic to device level (phone, computer, watch), cloud (AWS, Azure), custom cloud (laptop + fighter jet), or internal network.
 
@@ -6,7 +7,7 @@ CryptoMove is a revolutionary data security platform designed around the breache
 ##### [Software Engineer (API)](software-engineer-api.md)
 
 ## Location
-![55 E. 3rd ave., San Mateo, CA]https://maps.googleapis.com/maps/api/staticmap?center=San+Mateo,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C55+E.+3rd+Ave.,+San+Francisco,+CA)  
+![55 E. 3rd ave, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=55+E.+3rd+Ave,+San+Mateo,+Ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C55+E.+3rd+Ave,+San+Mateo,+Ca)
 
 ## Team Size
 5 people
