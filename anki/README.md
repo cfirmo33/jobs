@@ -10,7 +10,7 @@ Anki has been named one of the top 50 most innovative companies in the world by 
 ##### [Senior Software / Game Engineer](senior-software-game-engineer.md)
 
 ## Location
-![55 2nd Street, 15th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=55+2nd+Street,+15th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![55 2nd Street, 15th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=55+2nd+Street,+15th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C55+2nd+st.+San+Francisco,+Ca)
 
 ## Funding
 Funding Rounds (4) - $157.5M

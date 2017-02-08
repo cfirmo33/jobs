@@ -9,7 +9,7 @@ The messages students share are overwhelmingly positive: compliments, notes of e
 ####[Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![158 South Park, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=158+South+Park,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![158 South Park, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=158+South+Park,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C158+South+Park+San+Francisco,+Ca)  
 
 ## Team Size
 11 Engineers

@@ -7,7 +7,7 @@ Bonsai is creating a platform and community aiming to make it easier for develop
 #### [Technical Product Manager](technical-product-manager.md)
 
 ## Location
-![2140 Shattuck Ave., Ste. 510, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2140+Shattuck+Ave.,+Ste.+510,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![2140 Shattuck Ave., Ste. 510, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2140+Shattuck+Ave.,+Ste.+510,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2140+Shattuck+ave.+Berkeley,+Ca)  
 
 ## Funding
 + Sep, 2016	$2.2M / Series A

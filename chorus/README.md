@@ -7,7 +7,7 @@ Chorus is an intelligence tool bringing analytics and insights to what once was 
 ##### [Support / DevOps Engineer](support-devops-engineer.md)
 
 ## Location
-![333 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=333+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![333 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=333+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C333+Bush+st.+San+Francisco,+Ca)
 
 ## Team Size
 20 Total, 15 in Tel Aviv

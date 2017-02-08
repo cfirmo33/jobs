@@ -8,7 +8,7 @@ Banjo has built a proprietary means to aggregate, analyze, and present data post
 ##### [Python Production Engineer](python-production-engineer.md)
 
 ## Location
-![833 Main St, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=833+Main+St,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![833 Main St, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=833+Main+St,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C833+Main+st.+Redwood+City,+Ca)  
 
 ## Funding
 Funding Rounds (4) - $121M

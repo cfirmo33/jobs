@@ -7,7 +7,7 @@ Compology builds WasteOS: the only routing system built exclusively for the wast
 ##### [Lead UI/UX Designer] (lead-ui-ux-designer.md)
 
 ## Location
-![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C2121+Harrison+St,+San+Francisco,+CA)  
+![2121 Harrison St, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2121+Harrison+St,+San+Francisco,+CA)  
 
 ## Funding
 + Funding Rounds (3) - $7.53M

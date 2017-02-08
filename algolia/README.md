@@ -6,7 +6,7 @@ Algolia is an international company located in San Francisco (HQ in Paris) build
 ##### [Solution Engineer](solutions-engineer.md)
 
 ## Location
-![589 Howard St. Suite 5, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=589+Howard+St.+Suite+5,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![589 Howard St. Suite 5, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=589+Howard+St.+Suite+5,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C589+Howard+st.+San+Francisco,+Ca)  
 
 ## Team Size
 70 Total, 20 SF-Based

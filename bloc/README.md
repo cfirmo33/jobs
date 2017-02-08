@@ -7,7 +7,7 @@ Bloc Offers mentor led online courses for development and design, teaching real 
 ##### [Software Engineer (Agnostic, Ruby on Rails)](software-engineer-agnostic-ruby-on-rails.md)
 
 ## Location
-![110 Sutter St. 10th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=110+Sutter+St.+10th+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![110 Sutter St. 10th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=110+Sutter+St.+10th+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C110+Sutter+st.+San+Francisco,+Ca)  
 
 ## Team Size
 25 Total, 4 Engineers, 70 remote mentors

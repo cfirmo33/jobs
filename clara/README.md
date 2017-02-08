@@ -7,7 +7,7 @@ Clara is building a fast and simple way for people to finance their home. With a
 ##### [Platform Engineer (Agnostic, Ruby on Rails, Scale)](platform-engineer-agnostic-ruby-on-rails-scale.md)
 
 ## Location
-![222 Sutter Street, 8th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=222+Sutter+Street,+8th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![222 Sutter Street, 8th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=222+Sutter+Street,+8th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C222+Sutter+st.+San+Francisco,+Ca)  
 
 ## On The Web
 + [Website](https://clara.com/)
