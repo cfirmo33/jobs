@@ -20,7 +20,7 @@ Honest – transparency & integrity
 ##### [Software Engineering Manager (Marketing Campaigns)](software-engineering-manager-marketing-campaigns.md)
 
 ## Location
-![401 Warren St., Floor 2, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=401+Warren+St.,+Floor+2,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C401+Warren+St.,+Floor+2,+Redwood+City,+CA)  
+![401 Warren St., Floor 2, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=401+Warren+St.,+Floor+2,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C401+Warren+St.,+Floor+2,+Redwood+City,+CA)  
 
 ## Team Size
 + Redwood City Office: ~18 people, ~7 engineers

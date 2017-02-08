@@ -6,7 +6,7 @@ Long Game is trying to fix the lack of savings problem that overlaps with the $6
 ##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![604 Mission St., 4th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=604+Mission+St.,+4th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![604 Mission St., 4th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=604+Mission+St.,+4th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C604+Mission+St,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (1) - $25k

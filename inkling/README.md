@@ -17,7 +17,7 @@ Inkling just raised 25M Series E funding in Dec 2016, they have a brand new offi
 ##### [Windows Mobile Engineer](windows-mobile-engineer.md)
 
 ## Location
-![343 Sansome Street 8th Floor, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C55+francisco+st+san+francisco+ca)  
+![343 Sansome Street 8th Floor, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=55+francisco+st+san+francisco+ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C55+francisco+st+san+francisco+ca)  
 
 ## Team Size
 + 160 employee including 45 engineers, broken out into 5 teams:

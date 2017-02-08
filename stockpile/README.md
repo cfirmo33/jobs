@@ -9,7 +9,7 @@ Stockpile’s mission is to make it easy, affordable, and fun for anyone to coll
 #### [Fullstack Engineer (JS/ Java)](fullstack-engineer-js-java.md)
 
 ## Location
-![Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![3495 Deer Creek Rd, Palo Alto, CA 94304](https://maps.googleapis.com/maps/api/staticmap?center=3495+Deer+Creek+Rd,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C3495+Deer+Creek+Rd,+Palo+Alto,+CA)
 
 ## Team Size
 + About 15 people total

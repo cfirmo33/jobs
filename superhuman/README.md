@@ -9,7 +9,7 @@ It’s gorgeous. Blazingly fast. And comes with advanced features that give you 
 #### [Polymath Fullstack Engineer](polymath-fullstack-engineer.md)
 
 ## Location
-![465 California St. #300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=465+California+St.+#300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![465 California St. #300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=465+California+St.+#300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2465+California+St.,+San+Francisco,+CA)  
 
 ## Team Size
 8 total.  Mostly engineers.

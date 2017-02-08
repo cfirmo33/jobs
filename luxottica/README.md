@@ -6,7 +6,7 @@ Luxottica is the global leader in eye wear distributions. If you own a pair of g
 ##### [Frontend Engineer](fronеend-engineer.md)
 
 ## Location
-![77 Geary, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=77+Geary,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![77 Geary, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=77+Geary,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C77+Geary+St,+San+Francisco,+CA)
 
 ## On The Web
 + [Website](www.luxottica.com)

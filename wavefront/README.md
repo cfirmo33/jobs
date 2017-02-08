@@ -10,7 +10,7 @@ A real-time analytics platform that helps both small and large companies ensure 
 ##### [Senior Operations](senior-operations.md)
 
 ## Location
-![195 Page Mill Road #109, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=195+Page+Mill+Road+#109,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![195 Page Mill Road #109, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=195+Page+Mill+Road+#109,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C195+Page+Mill+Rd.,+Palo+Alto,+CA)  
 
 ## Team Size
 

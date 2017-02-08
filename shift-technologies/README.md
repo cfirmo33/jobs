@@ -8,7 +8,7 @@ Shift is the easiest way for people to buy and sell used cars in the peer-to-pee
 ##### [iOS Engineer](ios-engineer.md)
 
 ## Location
-![2500 Market St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2500+Market+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![2500 Market St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2500+Market+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2500+Market+St,+San+Francisco,+CA)
 
 ## Funding
 Funding Rounds (3) - $11.8M

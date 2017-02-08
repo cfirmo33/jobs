@@ -6,7 +6,7 @@ Velo3D is a stealth 3D printing startup that's revolutionizing the metal manufac
 ##### [Senior Software Engineer](senior-software-engineer.md)
 
 ## Location
-![511 Division St, Campbell, CA](https://maps.googleapis.com/maps/api/staticmap?center=511+Division+St,+Campbell,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![511 Division St, Campbell, CA](https://maps.googleapis.com/maps/api/staticmap?center=511+Division+St,+Campbell,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C511+Division+St.,+Campbell,+CA)  
 
 ## Funding
 Funding Rounds (1) - $22.09M

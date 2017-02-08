@@ -9,7 +9,7 @@ RepairPal was founded in 2007 by a group of automobile enthusiasts and entrepren
 ##### [Fullstack Ruby Engineer](fullstack-ruby-engineer.md)
 
 ## Location
-![363 Clementina St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=363+Clementina+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![363 Clementina St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=363+Clementina+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C363+Clementina+St.,+San+Francisco,+CA)  
 
 ## Team Size
 45 Total, 12 Engineers

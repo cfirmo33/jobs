@@ -7,7 +7,7 @@ Redfin is making real estate easy. They have a huge real-world impact by helping
 ##### [Senior Fullstack Engineer (Customer Growth)](senior-fullstack-engineer-customer-growth.md)
 
 ## Location
-![655 Montgomery St., Suite 1500, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=655+Montgomery+St.,+Suite+1500,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![655 Montgomery St., Suite 1500, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=655+Montgomery+St.,+Suite+1500,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C655+Montgomery+St,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (8) - $167.82M

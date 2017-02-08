@@ -7,7 +7,7 @@ Ladder Life (Menlo Park) is building a fast and efficient way for people to buy 
 ##### [Fullstack Engineer (Agnostic, Clojure)](full-stack-engineer-agnostic-clojure.md)
 
 ## Location
-![650 Live Oak Ave, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=650+Live+Oak+Ave,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![650 Live Oak Ave, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=650+Live+Oak+Ave,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C650+Live+Oak+ave,+Menlo+Park,+CA)  
 
 ## On The Web
 + [Website](http://www.ladderlife.com/)

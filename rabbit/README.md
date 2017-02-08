@@ -10,7 +10,7 @@ Rabbit is a Series A startup located in Redwood City that is focused on advancin
 ##### [Product Manager](product-manager.md)
 
 ## Location
-![1741 Broadway Street Ste 200, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1741+Broadway+Street,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C1741+Broadway+Street,+Redwood+City,+CA)  
+![1741 Broadway Street Ste 200, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1741+Broadway+Street,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1741+Broadway+Street,+Redwood+City,+CA)  
 
 ## Team Size
 20 Total, 12 Engineers

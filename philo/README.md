@@ -10,7 +10,7 @@ The average American watches 4.5 hours of TV a day, and cable is the biggest adv
 ##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![772 Bryant Street, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=772+Bryant+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C772+Bryant+Street,+San+Francisco,+CA)  
+![772 Bryant Street, San Francisco, CA](http://maps.googleapis.com/maps/api/staticmap?center=772+Bryant+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C772+Bryant+Street,+San+Francisco,+CA)  
 
 ## Team Size
 40 Total

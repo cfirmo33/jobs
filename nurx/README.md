@@ -21,7 +21,7 @@ We want to challenge the status quo, break down unnecessary barriers and give wo
 ##### [Frontend Engineer](frontend-engineer.md)
 
 ## Location
-![81 Langton St #11, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=81+Langton+St+#11,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![81 Langton St #11, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=81+Langton+St+#11,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C81+Langton+st.,+San+Francisco,+CA)  
 
 ## Team Size
 10 Total, 3 Engineers

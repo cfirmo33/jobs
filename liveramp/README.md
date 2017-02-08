@@ -13,7 +13,7 @@ LiveRamp, acquired by Axciom in 2014, is the leader of data connectivity, bringi
 ##### [UX Engineer](ux-engineer.md)
 
 ## Location
-![225 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![225 Bush St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C225+Bush+St,+San+Francisco,+CA)  
 
 ## Team Size
 Thousands; Innovation team is 4; looking to grow to 10 in 2 months

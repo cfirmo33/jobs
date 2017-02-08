@@ -18,7 +18,7 @@ A company in China that invented a digital piano that helps people learn to play
 ##### [Platform Engineer](platform-engineer.md)
 
 ## Location
-![8 Homewood Pl. #150, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=8+Homewood+Pl.+#150,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![8 Homewood Pl. #150, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=8+Homewood+Pl.+#150,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C8+Homewood+pl.,+Menlo+Park,+Ca)  
 
 ## Team Size
 20 Engineers

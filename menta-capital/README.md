@@ -6,7 +6,7 @@ Menta Capital LLC is a San Francisco based hedge fund company that manages globa
 ##### [Java Developer](java-developer.md)
 
 ## Location
-![1 Market St. Suite 3730, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1+Market+St.+Suite+3730,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![1 Market St. Suite 3730, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1+Market+St.+Suite+3730,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1+Market+St,+San+Francisco,+CA)  
 
 ## Team Size
 22 Total, 3 Engineers

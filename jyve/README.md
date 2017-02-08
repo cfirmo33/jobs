@@ -7,7 +7,7 @@ Jyve is partnering up with local businesses to provide on-demand merchandising s
 ##### [Frontend Engineer (Hybrid Designer)](frontend-engineer-hybrid-designer.md)
 
 ## Location
-![832 Sansome St. 1st Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=832+Sansome+St.+1st+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![832 Sansome St. 1st Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=832+Sansome+St.+1st+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C832+Sansome+St,+San+Francisco,+CA)  
 
 ## Team Size
 27 Total, 6 Engineers, 80 Part Time Jyvers (looking to increase this to 1000 Jyvers by March)

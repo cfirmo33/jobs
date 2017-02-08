@@ -6,7 +6,7 @@ SimplyInsured (San Francisco) is focused on taking the fear and uncertainty out 
 ##### [Senior Fullstack Software Engineer (Ruby on Rails)](senior-fullstack-software-engineer-ruby-on-rails.md)
 
 ## Location
-![98 Battery Street, Suite 220, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=98+Battery+Street,+Suite+220,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![98 Battery Street, Suite 220, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=98+Battery+Street,+Suite+220,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C98+Battery+St,+San+Francisco,+CA)
 
 ## Funding
 Funding Rounds (3) - $8.4M

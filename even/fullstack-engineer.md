@@ -1,5 +1,5 @@
 ## Fullstack engineer
-#### San Francisco, CA
+#### Oakland, CA
 
 ### Overview
 77 million Americans work for an hourly wage. Their median income is $34,142. They don’t make a lot of money—and worse, their income and expenses are inconsistent. As a result, they frequently don’t have enough income to cover expenses, so these Americans spend $100 billion every year just to make ends meet. They lose 10-30% of their income to things like payday loans, overdraft fees, and late bill fees. It is expensive to be poor.

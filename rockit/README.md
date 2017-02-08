@@ -9,7 +9,7 @@ Founded in 2011, RockIT partners with Bay Area start-ups to build their teams th
 + [One of our Partner's] (https://www.linkedin.com/pulse/why-i-still-work-rockit-recruiting-matthew-walker) blogs about why he works at RockIT
 
 ## Location
-![880 Harrison Street, Suite 201, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=880+Harrison+Street,+Suite+201,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![880 Harrison Street, Suite 201, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=880+Harrison+Street,+Suite+201,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C880+Harrison+Street,+San+Francisco,+CA)  
 
 ## On The Web
 + [Website](http://rockitrecruiting.com)

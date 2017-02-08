@@ -6,7 +6,7 @@ PresenceLearning helps bring clinicians, parents, school districts and kids with
 ##### [Senior Backend Engineer - Data Systems](senior-backend-engineer-data-systems.md)
 
 ## Location
-![180 Montgomery St. 20th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=180+Montgomery+St.+20th+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![180 Montgomery St. 20th Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=180+Montgomery+St.+20th+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C180+Montgomery+St,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (3) - $33.71M

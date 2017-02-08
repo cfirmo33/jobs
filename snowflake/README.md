@@ -10,7 +10,7 @@ To achieve that, we have assembled a team of experts: https://www.snowflake.net/
 ##### [Senior Query Processing Engineer](senior-query-processing-engineer.md)
 
 ## Location
-![101 South Ellsworth Avenue, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+South+Ellsworth+Avenue,+San+Mateo,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![101 South Ellsworth Avenue, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+South+Ellsworth+Avenue,+San+Mateo,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C101+South+ellsworth+ Ave.,+San+Mateo,+CA)  
 Blocks from the CalTrain station
 
 ## Team Size

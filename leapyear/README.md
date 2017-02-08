@@ -10,7 +10,7 @@ We are advised by Enrique Salem, former CEO of Symantec, Hans Morris, former Pre
 ##### [Frontend Engineering Manager](frontend-engineering-manager.md)
 
 ## Location
-![2809 Telegraph Avenue, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2809+Telegraph+Avenue,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![2809 Telegraph Avenue, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2809+Telegraph+Avenue,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2809+Telegraph+Ave,+Berkeley,+CA)
 
 ## Funding
 Funding Rounds (1) - $8.2M

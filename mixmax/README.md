@@ -10,7 +10,7 @@ RockIT uses it every day and for many of us, life without it is unthinkable.  An
 ##### [Site Reliability Engineer](site-reliability-engineer.md)
 
 ## Location
-![95 Federal St. Suite A, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=95+Federal+St.+Suite+A,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![95 Federal St. Suite A, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=95+Federal+St.+Suite+A,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C95+Federal+St,+San+Francisco,+CA)
 
 ## Team Size
 11 Total, 5 Engineers

@@ -7,7 +7,7 @@ Matternet is the leading developer of autonomous drone logistics systems. The co
 ##### [Engineering Project Manager](engineering-project-manager.md)
 
 ## Location
-![3511 Edison Way, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=3511+Edison+Way,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![3511 Edison Way, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=3511+Edison+Way,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C3511+Edison+way,+Menlo+Park,+CA)
 
 ## Funding
 Funding Rounds (4) - $12.98M

@@ -6,7 +6,7 @@
 ##### [Automotive Sensor Product Manager](automotive-sensor-product-manager.md)
 
 ## Location
-![345 Digital Drive, Morgan Hill, CA](https://maps.googleapis.com/maps/api/staticmap?center=345+Digital+Drive,+Morgan+Hill,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![345 Digital Drive, Morgan Hill, CA](https://maps.googleapis.com/maps/api/staticmap?center=345+Digital+Drive,+Morgan+Hill,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C345+Digital+Dr.,+Morgan+Hill,+CA)  
 
 ## Funding
 Funding Rounds (1) - $150M

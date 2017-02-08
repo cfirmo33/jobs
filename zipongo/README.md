@@ -7,7 +7,7 @@ Zipongo Makes it Easy to Eat Well. We help large self-insured employers and heal
 ##### [Senior Product Manager](senior-product-manager.md)
 
 ## Location
-![901 Battery Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=901+Battery+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![901 Battery Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=901+Battery+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C901+Battery+St.,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (7) - $28.03M

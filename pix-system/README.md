@@ -12,7 +12,7 @@ Their software comes in 3 main forms, an iOS App, a Mac OS app, and a Web App. T
 ##### [Tools / Internal Engineer](tools-internal-engineer.md)
 
 ## Location
-![100 1st St, Suite 300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+1st+St,+Suite+300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![100 1st St, Suite 300, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+1st+St,+Suite+300,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C100+1st+Street,+San+Francisco,+CA)
 1st and Mission st.  
 
 ## Team Size

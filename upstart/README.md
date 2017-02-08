@@ -11,7 +11,7 @@ The team is founded by several ex-Googlers, including the past President of Goog
 ##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![2 Circle Star Way, San Carlos, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Circle+Star+Way,+San+Carlos,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![2 Circle Star Way, San Carlos, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Circle+Star+Way,+San+Carlos,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2+Circle+Star+Way.,+San+Carlos,+CA)  
 
 ## Team Size
 80 Total, 16 Engineers

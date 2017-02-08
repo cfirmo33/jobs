@@ -11,7 +11,7 @@ Weave stands the traditional infrastructure-centric model on its head. Instead o
 ##### [Backend Engineer (Go)](backend-engineer-go.md)
 
 ## Location
-![251 Rhode Island Street, Suite 204, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=251+Rhode+Island+Street,+Suite+204,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![251 Rhode Island Street, Suite 204, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=251+Rhode+Island+Street,+Suite+204,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C251+Rhode+Island+St.,+San+Francisco,+CA)  
 
 ## Team Size
 

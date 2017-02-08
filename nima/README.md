@@ -10,7 +10,7 @@ Product - Nima will first test for Gluten... you put the food in, it mashes it a
 ##### [iOS Engineer](ios-engineer.md)
 
 ## Location
-![2121 Harrison St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![2121 Harrison St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2121+Harrison+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2121+Harrison+St,+San+Francisco,+CA)  
 
 ## Team Size
 17 Total, 7 Engineers

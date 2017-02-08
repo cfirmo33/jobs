@@ -9,7 +9,7 @@ We offer competitive compensation packages (salary + equity), health and vision 
 ##### [Security Engineering Lead](security-engineering-lead.md)
 
 ## Location
-![3200 Ash St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=3200+Ash+St,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![3200 Ash St, Palo Alto, CA](https://maps.googleapis.com/maps/api/staticmap?center=3200+Ash+St,+Palo+Alto,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C3200+Ash+St.,+Palo+Alto,+CA)
 
 ## Team Size
 17 people, 9 engineers, others in financial compliance and operations roles

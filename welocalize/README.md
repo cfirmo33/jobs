@@ -6,7 +6,7 @@ Wavefront is a real-time analytics platform that helps both small and large comp
 ##### [Director of Global Communities (Sr. Community Manager)](director-of-global-communities-sr-community-manager.md)
 
 ## Location
-![241 East 4th St. Suite 207, Frederick, MD](https://maps.googleapis.com/maps/api/staticmap?center=241+East+4th+St.+Suite+207,+Frederick,+MD&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![241 East 4th St. Suite 207, Frederick, MD](https://maps.googleapis.com/maps/api/staticmap?center=241+East+4th+St.+Suite+207,+Frederick,+MD&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C241+East+4th+St.,+Fredrick,+MD)  
 
 ## Funding
 Funding Rounds (2) - $34M

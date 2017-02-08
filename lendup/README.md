@@ -12,7 +12,7 @@ We are continuing to build the next generation of dignified financial products t
 ##### [Principal Backend Engineer](principal-backend-engineer.md)
 
 ## Location
-![225 Bush Street, 11 Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+Street,+11+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![225 Bush Street, 11 Floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=225+Bush+Street,+11+Floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C225+Bush+St,+San+Francisco,+CA)  
 
 ## Team Size
 ~200 people

@@ -9,7 +9,7 @@ You want to fix that. By building software that eliminates the underlying ineffi
 ##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![Oakland, CA](https://maps.googleapis.com/maps/api/staticmap?center=Oakland,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![19th st, Oakland, CA](https://maps.googleapis.com/maps/api/staticmap?center=19th+st,+oakland,+Ca&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1900+broadway,+oakland,+Ca)  
 
 ## Team Size
 12 Total, 3 Engineers

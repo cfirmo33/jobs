@@ -12,7 +12,7 @@ Serving a burger this great at such affordable prices would be impossible withou
 ##### [Lead Backend Engineer](lead-backend-engineer.md)
 
 ## Location
-![977 Howard St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=977+Howard+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![977 Howard St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=977+Howard+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C977+Howard+St,+San+Francisco,+CA)
 
 ## Team Size
 16 Engineers

@@ -11,7 +11,7 @@ We envision a world in which people think differently about their mental healthâ
 ##### [QA Engineer](qa-engineer.md)
 
 ## Location
-![2 Shaw Alley, 5th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Shaw+Alley,+5th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![2 Shaw Alley, 5th floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2+Shaw+Alley,+5th+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2+Shaw+Alley,+San+Francisco,+CA)  
 
 ## Team Size
 37 total employees, 15-16 on engineering/product, 5 on mobile team (1 iOS)

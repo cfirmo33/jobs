@@ -7,7 +7,7 @@ In 2013 Loris Degioanni founded Sysdig as he found container technology such an 
 ##### [Product Marketing](product-marketing.md)
 
 ## Location
-![100 Bush Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+Bush+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![100 Bush Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+Bush+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C100+Bush+St.,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (3) - $28M

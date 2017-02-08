@@ -11,7 +11,7 @@ How they make money: Platform as a Service. They have two pricing models, an Int
 ##### [Fullstack Engineer](fullstack-engineer.md)
 
 ## Location
-![101 15th Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+15th+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![101 15th Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=101+15th+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C101+15th+St,+San+Francisco,+CA)
 
 ## Team Size
 

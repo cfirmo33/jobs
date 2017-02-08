@@ -10,7 +10,7 @@ ZipCar is the world's leading car sharing network and they recently acquired Loc
 ##### [Quality Engineer](quality-engineer.md)
 
 ## Location
-![15 N Ellsworth unit 100, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=15+N+Ellsworth+unit+100,+San+Mateo&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)
+![15 N Ellsworth unit 100, San Mateo, CA](https://maps.googleapis.com/maps/api/staticmap?center=15+N+Ellsworth+unit+100,+San+Mateo&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C15+N.+Ellsworth,+San+Mateo,+CA)
 
 ## Funding
 Funding Rounds (4) - $60.7M

@@ -12,7 +12,7 @@ Their recent $37M Series C round brings their total funding to $60M. Solid leade
 #### [Associate Systems Engineer](associate-systems-engineer.md)
 
 ## Location
-![1100 Island Drive, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1100+Island+Drive,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C1100+Island+Drive,+Redwood+City,+CA)  
+![1100 Island Drive, Redwood City, CA](http://maps.googleapis.com/maps/api/staticmap?center=1100+Island+Drive,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1100+Island+Drive,+Redwood+City,+CA)  
 
 ## Team Size
 84 Total, 15 Engineers

@@ -8,7 +8,7 @@ Seesaw is a student driven digital portfolio which allows parents to see what th
 ##### [Software Engineer Generalist](software-engineer-generalist.md)
 
 ## Location
-![180 Montgomery Street, Suite 1580, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=180+Montgomery+Street,+Suite+1580,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true)  
+![180 Montgomery Street, Suite 1580, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=180+Montgomery+Street,+Suite+1580,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C190+Montgomery+St.,+San+Francisco,+CA)  
 
 ## On The Web
 + [Website](http://web.seesaw.me/)
