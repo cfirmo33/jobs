@@ -78,7 +78,7 @@ Want to see if we've got a job you'll love?  Use the search for anything from ci
 
 ## [Cvstom](cvstom)
 ###### San Francisco, CA
-+ [  Lead Mobile Engineer](cvstom/lead-mobile-engineer.md)
++ [Lead Mobile Engineer](cvstom/lead-mobile-engineer.md)
 + [Lead Backend Engineer](cvstom/lead-backend-engineer.md)
 + [Lead Frontend Engineer](cvstom/lead-frontend-engineer.md)
 
@@ -151,8 +151,8 @@ Want to see if we've got a job you'll love?  Use the search for anything from ci
 
 ## Lantern
 ###### San Francisco, CA
-+ [ QA Engineer](lantern/qa-engineer.md)
-+ [ iOS Engineer](lantern/ios-engineer.md)
++ [QA Engineer](lantern/qa-engineer.md)
++ [iOS Engineer](lantern/ios-engineer.md)
 
 ## [LearnUp](learnup)
 ###### San Francisco, CA
@@ -302,7 +302,7 @@ Want to see if we've got a job you'll love?  Use the search for anything from ci
 
 ## [Skydio](skydio)
 ###### Redwood City, CA
-+ [ iOS Developer](skydio/ios-developer.md)
++ [iOS Developer](skydio/ios-developer.md)
 + [Computer Vision Engineer](skydio/computer-vision-engineer.md)
 
 ## [Snowflake](snowflake)
@@ -314,7 +314,7 @@ Want to see if we've got a job you'll love?  Use the search for anything from ci
 ## [Spire](spire)
 ###### San Francisco, CA
 + [Android Engineer](spire/android-engineer.md)
-+ [ iOS Engineer](spire/ios-engineer.md)
++ [iOS Engineer](spire/ios-engineer.md)
 + [Devops Platform Architect](spire/devops-platform-architect.md)
 
 ## [Stockpile](stockpile)
@@ -341,22 +341,22 @@ Want to see if we've got a job you'll love?  Use the search for anything from ci
 ###### San Francisco, CA
 + [Rails Engineer](the-realreal/rails-engineer.md)
 
-## [Upstart](upstart-20baba34-a357-471d-84fa-fa02b7a6294c)
+## [Upstart](upstart)
 ###### San Carlos, CA
-+ [Data Scientist](upstart-20baba34-a357-471d-84fa-fa02b7a6294c/upstart-data-scientist.md)
-+ [Data Engineer](upstart-20baba34-a357-471d-84fa-fa02b7a6294c/upstart-data-engineer.md)
-+ [Backend Engineer](upstart-20baba34-a357-471d-84fa-fa02b7a6294c/upstart-backend-engineer.md)
-+ [Fullstack Engineer](upstart-20baba34-a357-471d-84fa-fa02b7a6294c/upstart-fullstack-engineer.md)
++ [Data Scientist](upstart/upstart-data-scientist.md)
++ [Data Engineer](upstart/upstart-data-engineer.md)
++ [Backend Engineer](upstart/upstart-backend-engineer.md)
++ [Fullstack Engineer](upstart/upstart-fullstack-engineer.md)
 
 ## [Velo3D](velo3d)
 ###### Campbell, CA
 + [Senior Software Engineer](velo3d/senior-software-engineer.md)
 
-## [Velodyne LiDAR](velodyne-lidar-bdf911ea-8ce4-4799-ba33-0bdbe45b4e48)
+## [Velodyne LiDAR](velodyne-lidar)
 ###### Morgan Hill, CA
-+ [Director of Supply Chain](velodyne-lidar-bdf911ea-8ce4-4799-ba33-0bdbe45b4e48/velodyne-lidar-director-of-supply-chain.md)
-+ [Automotive Sensor Product Manager](velodyne-lidar-bdf911ea-8ce4-4799-ba33-0bdbe45b4e48/velodyne-lidar-automotive-sensor-product-manager.md)
-+ [Director of Programs](velodyne-lidar-bdf911ea-8ce4-4799-ba33-0bdbe45b4e48/velodyne-lidar-director-of-programs.md)
++ [Director of Supply Chain](velodyne-lidar/velodyne-lidar-director-of-supply-chain.md)
++ [Automotive Sensor Product Manager](velodyne-lidar/velodyne-lidar-automotive-sensor-product-manager.md)
++ [Director of Programs](velodyne-lidar/velodyne-lidar-director-of-programs.md)
 
 ## [Wavefront](wavefront)
 ###### Palo Alto, CA
