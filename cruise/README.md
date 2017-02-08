@@ -7,7 +7,7 @@ Our first production run will be limited to 50 units, and you get first access. 
 ##### [Mechatronics Engineer](mechatronics-engineer.md)
 
 ## Location
-![54 Gilbert St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=54+Gilbert+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:1%7C24th+&+Mission+ST,+San+Francisco,+CA)  
+![54 Gilbert St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=54+Gilbert+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C24th+&+Mission+ST,+San+Francisco,+CA)  
 
 ## Funding
 Funding Rounds (4) - $18.8M
