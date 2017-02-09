@@ -9,7 +9,6 @@ Spire’s first product, a consumer wearable available at https://www.spire.io, 
 ## Open Positions
 ##### [Android Engineer](android-engineer.md)
 ##### [Devops Platform Architect](devops-platform-architect.md)
-##### [iOS Engineer](ios-engineer.md)
 
 ## Location
 ![2030 Harrison St. 2nd floor, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=2030+Harrison+St.+2nd+floor,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2030+Harrison+St.,+San+Francisco,+CA)  
