@@ -13,7 +13,7 @@ Kiddom connects content, analytics & collaboration tools into a unified platform
 ##### [Lead Mobile iOS](lead-mobile-ios.md)
 
 ## Location
-![1067 Market St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1067+Market+St,+#2001,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1067+Market+St,+San+Francisco,+CA)  
+![1067 Market St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1067+Market+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1067+Market+St,+San+Francisco,+CA)  
 
 ## On The Web
 + [Website](http://www.kiddom.co/)
