@@ -36,6 +36,6 @@ Funding Rounds (1) - $2.2M
 + Onsite meet entire team, Goal is to scope a small feature view their whole code base, make a commit, and even ship the feature by EOD (this would be a great proof of team fit too). All Day if possible
 
 ## On The Web
-+ + [Website](asktrim.com)
++ [Website](asktrim.com)
 + [Crunchbase](https://www.crunchbase.com/organization/trim#/entity)
 + [Angel List](https://angel.co/trim-1/jobs)
