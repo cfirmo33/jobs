@@ -7,7 +7,7 @@ In aggregate, Sequoia-backed companies account for more than 20% of NASDAQ’s t
 + No current openings
 
 ## Location
-![2800 Sand Hill Rd, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=2800+Sand+Hill+Rd,+#101,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2800+Sand+Hill+Rd.,+Menlo+Park,+CA)  
+![2800 Sand Hill Rd, Menlo Park, CA](https://maps.googleapis.com/maps/api/staticmap?center=2800+Sand+Hill+Rd,,+Menlo+Park,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2800+Sand+Hill+Rd.,+Menlo+Park,+CA)  
 
 ## On The Web
 + [Website](https://www.sequoiacap.com/)
