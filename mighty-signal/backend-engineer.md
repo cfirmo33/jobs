@@ -1,4 +1,4 @@
-"## Backend Engineer
+## Backend Engineer
 #### San Francisco, CA
 
 ### Job Description
@@ -27,4 +27,4 @@ We are looking for an engineer to work on our Backend. We have developed very un
 ### Nice to haves:
 + Experience with Ruby/Rails
 + Experience with iOS and/or Android development
-+ Experience or interest in Data Science"
++ Experience or interest in Data Science
