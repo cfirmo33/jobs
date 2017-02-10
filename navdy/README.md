@@ -2,6 +2,9 @@
 ## Overview
 Navdy is a head-up display device that mounts onto the dashboard of any car. Navdy can navigate, tweet, play music, and share GPS coordinates by voice and gesture command without requiring a driver to lift his or her eyes from the road with technology, similar to the devices commercial pilots use to land planes. Navdy has already reached $6M in preorders and has had a similar interest with VCs to a total of about $30M in funding. They were also recognized as one of Fast Company’s most innovative companies.
 
+## Open Positions
++ No current openings
+
 ## Location
 ![575 7th St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=575+7th+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C575+7th+St,+San+Francisco,+CA)
 

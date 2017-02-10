@@ -2,6 +2,9 @@
 ## Overview
 OpenTable (SF) is a restaurant management system for consumers to easily book their new or favorite restaurants. OpenTable has a customer base of over 32k restaurants spanning the world with over 16 million dinners reserved a month. They are looking to build out their search and photos team and would definitely love to add your talents.
 
+## Open Positions
++ No current openings
+
 ## Location
 ![1 Montgomery St Ste 700, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=1+Montgomery+St+Ste+700,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C1+Montgomery+St.,+San+Francisco,+CA)
 
