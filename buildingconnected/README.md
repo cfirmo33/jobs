@@ -11,7 +11,7 @@ Check out the slide-deck for BuildingConnected (here), the platform that is goin
 ## Funding
 Funding Rounds (2) - $10.7M
 + Nov, 2015	$8.5M / Series A
-Nov, 2015	$2.2M / Seed
++ Nov, 2015	$2.2M / Seed
 
 ## On The Web
 + [Website](http://www.buildingconnected.com)
