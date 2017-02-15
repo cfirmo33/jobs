@@ -5,7 +5,7 @@ In 2013 Loris Degioanni founded Sysdig as he found container technology such an 
 ## Open Positions
 ##### [UI Architect / Director of UI](ui-architect-director-of-ui.md)
 ##### [Product Marketing](product-marketing.md)
-##### [QA Engineer(Manager)](https://github.com/letsrockit/jobs/blob/master/sysdig/qa-engineer-manager.md)
+##### [QA Engineer(Manager)](qa-engineer-manager.md)
 
 ## Location
 ![100 Bush Street, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=100+Bush+Street,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C100+Bush+St.,+San+Francisco,+CA)  

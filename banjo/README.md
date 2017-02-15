@@ -6,7 +6,7 @@ Banjo has built a proprietary means to aggregate, analyze, and present data post
 ##### [Backend Engineer](backend-engineer.md)
 ##### [DevOps Engineer](devops-engineer.md)
 ##### [Python Production Engineer](python-production-engineer.md)
-##### [Data Scientist](https://github.com/letsrockit/jobs/blob/master/banjo/data-scientist.md)
+##### [Data Scientist](data-scientist.md)
 
 ## Location
 ![833 Main St, Redwood City, CA](https://maps.googleapis.com/maps/api/staticmap?center=833+Main+St,+Redwood+City,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C833+Main+st.+Redwood+City,+Ca)  

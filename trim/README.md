@@ -12,13 +12,13 @@ They're looking to do a whole lot more in the future too:
  - SAVE YOU MONEY
 
 ## Open Positions
-##### [Fullstack Software Engineer](https://github.com/letsrockit/jobs/blob/master/trim/fullstack-software-engineer.md)
+##### [Fullstack Software Engineer](fullstack-software-engineer.md)
 
 ## Location
 ![660 York St., San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=660+York+St.,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=icon:660 York St., San Francisco, CA%7Cshadow:true%7C660+York+St.,+San+Francisco,+CA)  
 
 ## Team Size
-4
+4 
 
 ## Funding
 Funding Rounds (1) - $2.2M

@@ -4,7 +4,7 @@ MightySignal is a mobile application index that enables businesses to make sense
 MightySignal was founded by successful entrepreneurs  Jason Lew and Shane Wey in 2014 and is based in SOMA. They're running on their seed round and looking to build out their team.
 
 ## Open Positions
-##### [Backend Engineer](https://github.com/letsrockit/jobs/blob/master/mighty-signal/backend-engineer.md)
+##### [Backend Engineer](mighty-signal/backend-engineer.md)
 
 ## Location
 ![880 Harrison St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=880+Harrison+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C880+Harrison+St,+San+Francisco,+CA)  
