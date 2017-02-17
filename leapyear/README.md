@@ -30,7 +30,12 @@ Funding Rounds (1) - $12.6M
 
 ## Good to know
 Each of their deals are over $1M with a waiting list of customer prospects
-They're using Haskell in the backend functional programming languages are so hot 
+They're using Haskell in the backend functional programming languages are so hot
+
+## Interview process
++ Phone call with CTO
++ Tech screen with VPE
++ Onsite
 
 ## On The Web
 + [Website](http://leapyear.io/)
