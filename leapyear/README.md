@@ -13,8 +13,8 @@ We are advised by Enrique Salem, former CEO of Symantec, Hans Morris, former Pre
 ![2809 Telegraph Avenue, Berkeley, CA](https://maps.googleapis.com/maps/api/staticmap?center=2809+Telegraph+Avenue,+Berkeley,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C2809+Telegraph+Ave,+Berkeley,+CA)
 
 ## Funding
-Funding Rounds (1) - $8.2M
-+ Aug, 2016	$8.2M / Series A
+Funding Rounds (1) - $12.6M
++ Aug, 2016	$12.6M / Series A
 
 ## Benefits & Perks
 + Competitive compensation package of salary and equity
@@ -27,6 +27,10 @@ Funding Rounds (1) - $8.2M
 
 ## Culture
 + Culture of teaching and learning
+
+## Good to know
+Each of their deals are over $1M with a waiting list of customer prospects
+They're using Haskell in the backend functional programming languages are so hot 
 
 ## On The Web
 + [Website](http://leapyear.io/)
