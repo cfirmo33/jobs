@@ -1,5 +1,5 @@
 ## Frontend Engineer
-#### SF Bay Area, CA
+#### Palo Alto, CA
 
 ### Quick Summary
 Our SaaS solution uses a massively scalable approach pioneered at Google and refined at Twitter that is now available to everyone. Our company delivers to tech ops, devops, and development personnel the combination of the most powerful query language in monitoring, running against a unified, full detail, big data metrics store in real-time with no limits. All of this capability is backed by an experienced enterprise team. Our customers include SaaS leaders like Box, Workday, Intuit, Groupon, Lyft, DoorDash, and Postmates.
@@ -33,8 +33,3 @@ We are seeking a front end software engineer to define/extend, implement, docume
 
 ### Why choose us?
 We are an equal opportunity employer and value diversity. Our company is committed to Equal Employment Opportunity throughout our recruiting and hiring process and is dedicated to increasing diversity in our workplace.
-
-Contact
-Name: Christina Tamm
-Phone Number: 530-902-3222
-Email: christina@rockitrecruiting.com
