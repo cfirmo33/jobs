@@ -12,8 +12,7 @@ Inkling just raised 25M Series E funding in Dec 2016, they have a brand new offi
 ## Open Positions
 ##### [Senior Infrastructure Engineer](senior-infrastructure-engineer.md)
 ##### [Senior Javascript Engineer](senior-javascript-engineer.md)
-##### [Senior Product Manager](senior-product-manager.md)
-##### [Senior Backend Engineer](senior-backend-engineer.md)
+##### [Fullstack Engineer](fullstack-engineer.md)
 ##### [Windows Mobile Engineer](windows-mobile-engineer.md)
 
 ## Location
