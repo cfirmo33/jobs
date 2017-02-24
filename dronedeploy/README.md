@@ -7,6 +7,7 @@ DroneDeploy is a Series B ($31M total) software startup in SF that puts drones t
 ##### [DevOps Engineer SRE](devops-engineer-sre.md)
 ##### [Lead UX Designer](lead-ux-designer.md)
 ##### [Senior Computer Vision Engineer](senior-computer-vision-engineer.md)
+##### [Senior Javascript /TypeScript Engineer](senior-javascript-typescript-engineer.md)
 
 ## Location
 ![474 Bryant St, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=474+Bryant+St,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C474+Bryant+St.,+San+Francisco,+CA))  
