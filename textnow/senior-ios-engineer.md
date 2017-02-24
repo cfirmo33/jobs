@@ -9,15 +9,14 @@ We are looking for well-rounded iOS developers to join our development team and 
 
 Join us to make a BIG impact as part of the disrupting force that's changing telecommunications forever.
 
-### What you'll do:
+### What you'll do
 +	Write clean, maintainable iOS applications in Objective-C using the latest iOS programming techniques
 +	Take full ownership of projects from design to deployment
 +	Collaborate closely with other engineers and designers
 +	Deploy your features to millions of users - your work will have an immediate impact
 +	Become an important member of an autonomous, cross-functional team
 
-### Requirements
-### Who you are:
+### What we look for
 +	You have a bachelor's degree in Computer Science, Computer Engineering, Software Engineering, or equivalent practical experience
 +	You have strong fundamentals - you know your data structures, algorithms, and OO design
 +	You have excellent problem solving, critical thinking and communication skills
@@ -26,7 +25,7 @@ Join us to make a BIG impact as part of the disrupting force that's changing tel
 +	You have experience writing unit tests and testable code
 +	You value the success of your team and their mission
 
-### Benefits
+### Perks
 +	Impactful work
 +	Smartphone
 +	Competitive total compensation package
