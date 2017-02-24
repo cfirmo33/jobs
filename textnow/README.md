@@ -5,8 +5,12 @@ The world’s first cloud-based phone carrier. They're making phone services aff
 Download their app for free to start texting/calling right away. You can get a phone # linked to several devices (iPad, computer, phone, etc) - they can sell you the phone with their firmware if needed. See for yourself how it works in this quick video: https://www.youtube.com/watch?v=1kYBlXcO_H8&feature=youtu.be
 
 ## Open Positions
-##### [Senior iOS Engineer](senior-ios-engineer.md)
 ##### [Senior Backend Engineer (Lead)](senior-backend-engineer-lead.md)
+##### [Senior iOS Engineer](senior-ios-engineer.md)
+##### [Data Science Analyst](data-science-analyst.md)
+##### [Senior Product Manager](senior-product-manager.md)
+##### [Software Developer in Test](software-developer-in-test.md)
+##### [QA Lead](qa-lead.md)
 
 ## Location
 ![300 Brannan, San Francisco, CA](https://maps.googleapis.com/maps/api/staticmap?center=300+Brannan,+San+Francisco,+CA&zoom=13&scale=false&size=600x300&maptype=roadmap&format=png&visual_refresh=true&markers=size:mid%7Ccolor:0xff0000%7Clabel:%7C300+Brannan+St.,+San+Francisco,+CA)  
