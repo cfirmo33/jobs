@@ -38,11 +38,3 @@ We are the leading cloud software platform for commercial drones, making the pow
 
 ### Life with us
 In addition to leading the pack in the field of Drone Software Platforms, we’re a team of star wars loving, hot sauce eating, tech enthusiasts with motivational talents. Everyone is empowered to explore and implement new ideas and improvements. We enjoy our collaborative office environment and inspire each other to push boundaries. We host weekly Friday night BBQs on our rooftop deck, offer great salaries, generous equity, 100% employee health coverage, unlimited vacation and delicious catered meals among other perks.
-
-### Interview Process
-+	Application Review + recruiter phone (15-20 minutes): Kachi
-+	Shortlist / Portfolio Review: James
-+	1st Phone Screen (30 minutes): James
-+	2nd Phone Screen (30 minutes): Jono
-+	1st Onsite - hands on practical (2.5 hours): James + Jono
-+	2nd Onsite (1 hour): Jono + Mike
